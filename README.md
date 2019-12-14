@@ -93,7 +93,8 @@ physical
 
 # 好书推荐
 
-[![翻译研究](http://img1.douban.com/lpic/s4607692.jpg)](http://book.douban.com/subject/1234604/)
+[![翻译研究]<object data="https://img1.doubanio.com/view/subject/l/public/s6634389.jpg" type="image/jpg" alt="翻译研究
+" height="256px" align="right"><img src="https://i.imgur.com/CciKvzj.jpg" alt="翻译研究" height="256px" align="right"></object>](http://book.douban.com/subject/1234604/)
 
 # 其他意见
 
