@@ -22,7 +22,7 @@ dict.textile 包含了 A-Z 所有的词汇。
 
 频繁查询者可将[此页][dict]加入书签。
 
-[dict]:https://github.com/JuanitoFatas/Computer-Science-Glossary/blob/master/dict.textile
+[dict]:https://github.com/mavaddat-javid-education/Computer-Science-Glossary/blob/master/dict.textile
 
 # 如何贡献
 
@@ -47,7 +47,7 @@ dict.textile 包含了 A-Z 所有的词汇。
 如果只想在该仓库局部使用：
 
 ```bash
-$ git clone git@github.com:JuanitoFatas/Computer-Science-Glossary.git
+$ git clone git@github.com:mavaddat-javid-education/Computer-Science-Glossary.git
 $ cd Computer-Science-Glossary
 $ npm install
 $ bin/tran
@@ -98,11 +98,11 @@ physical
 
 # 其他意见
 
-欢迎发送邮件至 huangz1990 或 katehuang0320 的 gmail 邮箱。
+欢迎发送邮件至 huangz1990 或 mavaddatjavid 或 katehuang0320 的 gmail 邮箱。
 
 # 授权
 
 [![CC BY-NC 3.0 CN](http://i.creativecommons.org/l/by-nc/3.0/cn/88x31.png)](http://creativecommons.org/licenses/by-nc/3.0/cn/)
 
-[issue]:https://github.com/JuanitoFatas/Computer-Science-Glossary/issues
+[issue]:https://github.com/mavaddat-javid-education/Computer-Science-Glossary/issues
 
