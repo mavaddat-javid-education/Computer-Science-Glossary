@@ -1,6 +1,5 @@
+project_id: '381307'
+api_token: e721c320ececd402e212f2b4e79ae159
 files:
-  - source: '*.textile'
-    translation: >-
-      %original_path%/%original_file_name%.%locale_with_underscore%.%file_extension%
-"project_id": "381307"
-"api_token": "e721c320ececd402e212f2b4e79ae159"
+  - source: '*.md'
+    translation: '%original_path%/%file_name%_%locale_with_underscore%.%file_extension%'
