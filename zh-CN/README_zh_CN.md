@@ -2,7 +2,7 @@
 
 这里蒐集了计算机科学里，常用词汇之译法。
 
-**译者注意！**词汇表所提供之译法需视情况相应修改。
+**译者注意！ **词汇表所提供之译法需视情况相应修改。
 
 # 为什么需要词汇表？
 
@@ -20,17 +20,17 @@ dict.textile 包含了 A-Z 所有的词汇。
 
 为了使贡献更容易，仅将词汇按 A-Z 分类，各类下不再按字母顺序排序，请用搜寻查找。
 
-频繁查询者可将[此页][dict]加入书签。
+频繁查询者可将[此页](https://github.com/mavaddat-javid-education/Computer-Science-Glossary/blob/master/dict.textile)加入书签。
 
 # 如何贡献
 
-欢迎贡献！集思广益！
+欢迎贡献！ 集思广益！
 
 发送 Pull Request 提交词汇表中尚未出现的词汇，请按照相同格式编排。
 
 提交词汇时请先搜索词汇表，确认该词汇尚未添加，并将词汇加在类似的词组附近。
 
-发现词汇有错误或更好的译法请开 [Issue][issue] 讨论。
+发现词汇有错误或更好的译法请开 [Issue](https://github.com/mavaddat-javid-education/Computer-Science-Glossary/issues) 讨论。
 
 靠大家的力量来一起壮大这个词汇表。
 
@@ -57,7 +57,7 @@ $ bin/tran
 $npm install -g tran
 ```
 
-该工具当前仅支持翻译查询。查看帮助直接输入 `tran`：
+该工具当前仅支持翻译查询。 查看帮助直接输入 `tran`：
 
 ```
 $ bin/tran
@@ -100,8 +100,4 @@ physical
 # 授权
 
 [![CC BY-NC 3.0 CN](http://i.creativecommons.org/l/by-nc/3.0/cn/88x31.png)](http://creativecommons.org/licenses/by-nc/3.0/cn/)
-
-[dict]: https://github.com/mavaddat-javid-education/Computer-Science-Glossary/blob/master/dict.textile
-
-[issue]: https://github.com/mavaddat-javid-education/Computer-Science-Glossary/issues
 
