@@ -1,4 +1,4 @@
 files:
   - source: '*.textile'
     translation: >-
-      %original_path%/%original_file_name%.%locale_with_underscore%%file_extension%
+      %original_path%/%original_file_name%.%locale_with_underscore%.%file_extension%
