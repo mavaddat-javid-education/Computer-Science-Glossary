@@ -1,48 +1,48 @@
-# 计算机科学词汇表
+# Computer Science Glossary
 
-这里蒐集了计算机科学里，常用词汇之译法。
+Here is a collection of translations of commonly used words in computer science.
 
-**译者注意！**词汇表所提供之译法需视情况相应修改。
+**⚠** The translation provided in the glossary needs to be modified accordingly.
 
-# 为什么需要词汇表？
+# Why do I need a glossary❓
 
-* 译者翻译需要一个统一的参考
+* Translators' efforts need unified reference
 
-* 菜鸟学习需要知道术语的中文
+* Novice learners need to know Chinese terminology
 
-* 作为读 CS 书的辞典使用亦可
+* Can be used as a dictionary for reading CS books
 
-# 如何使用
+# How to contribute
 
-dict.textile 包含了 A-Z 所有的词汇。
+[`dict.textile`](dict.textile) contains all words A-Z.
 
-可用字母索引表浏览或浏览器的搜寻功能 (CMD+F, CTRL+F)。
+You can use the alphabetic index table to browse or the search function of the browser (CMD+F, CTRL+F).
 
-为了使贡献更容易，仅将词汇按 A-Z 分类，各类下不再按字母顺序排序，请用搜寻查找。
+In order to make contribution easier, only vocabulary is sorted by A-Z, and the categories are no longer sorted alphabetically. Please use search to find them.
 
-频繁查询者可将[此页][dict]加入书签。
+Frequent inquirers can bookmark [this page](https://github.com/mavaddat-javid-education/Computer-Science-Glossary/blob/master/dict.textile).
 
-# 如何贡献
+# How to contribute
 
-欢迎贡献！集思广益！
+Contributions are welcome! Sapere Aude!
 
-发送 Pull Request 提交词汇表中尚未出现的词汇，请按照相同格式编排。
+Send a Pull Request to submit vocabulary (in the same format) that does not appear in the glossary.
 
-提交词汇时请先搜索词汇表，确认该词汇尚未添加，并将词汇加在类似的词组附近。
+When submitting orthography, please search the vocabulary first, confirm the vocab has not been added, and add the vocabulary near similar phrases.
 
-发现词汇有错误或更好的译法请开 [Issue][issue] 讨论。
+If you find a vocabulary error or a better translation, please open \[Issue\]\[issue\] to discuss.
 
-靠大家的力量来一起壮大这个词汇表。
+Rely on everyone's strength to grow this vocabulary together.
 
-## 撰写语法
+## Why do I need a glossary❓
 
-采用 Textile 语法，参考 [Textile Reference](http://redcloth.org/hobix.com/textile/) 或[试试 Textile](http://textile.thresholdstate.com/)。
+Use Textile syntax, refer to [Textile Reference](http://redcloth.org/hobix.com/textile/) or [Try Textile](http://textile.thresholdstate.com/).
 
-## 命令行工具
+## how to use
 
-命令行工具使用 [Node](http://nodejs.org/) 编写，使用前请先安装 [Node](http://nodejs.org/download/)，也可使用 [NVM](https://github.com/creationix/nvm) 来安装 Node。
+The command line tool is written using [Node](http://nodejs.org/), please install [Node](http://nodejs.org/download/) before using, or use \[NVM\](https:/ /github.com/creationix/nvm) to install Node.
 
-如果只想在该仓库局部使用：
+If you only want to use it locally in the warehouse:
 
 ```bash
 $ git clone git@github.com:mavaddat-javid-education/Computer-Science-Glossary.git
@@ -51,13 +51,13 @@ $ npm install
 $ bin/tran
 ```
 
-全局使用，运行：
+To use globally, run:
 
 ```bash
-$npm install -g tran
+$ npm install -g tran
 ```
 
-该工具当前仅支持翻译查询。查看帮助直接输入 `tran`：
+The tool currently only supports translation queries. View the help and enter `tran` directly:
 
 ```
 $ bin/tran
@@ -66,42 +66,39 @@ $ bin/tran
 
   Commands:
 
-    search <name>          Search for translations
+    search <name> Search for translations
 
   Options:
 
-    -h, --help     output usage information
-    -V, --version  output the version number
+    -h, --help output usage information
+    -V, --version output the version number
 ```
 
-查询翻译 `tran search <name>` （模糊搜寻），如查找 `sicp`：
+Query translation `tran search <name>` (fuzzy search), such as searching for `sicp`:
 
 ```
 $ bin/tran search sicp
 Fuzzy match including:
 SICP
-  《计算机程序的构造与解释》
+  "The Structure and Interpretation of Computer Programs"
 simple vector
-  简单向量
+  Simple vector
 physical
-  物理的
+  physical
 ```
 
-此工具由 [CatTail](https://github.com/CatTail) 撰写。
+This tool was written by \[CatTail\](https://github.com/CatTail).
 
-# 好书推荐
+# Recommended books
 
-[![翻译研究]](http://book.douban.com/subject/1234604/)
+[[![Translation Research]](http://book.douban.com/subject/1234604/)
 
-# 其他意见
+# Additional Feedback
 
-欢迎发送邮件至 huangz1990 或 mavaddatjavid 或 katehuang0320 的 gmail 邮箱。
+You're welcome to send an email to huangz1990 or mavaddatjavid or katehuang0320 at gmail dot com
 
-# 授权
+# Licence
 
-[![CC BY-NC 3.0 CN](http://i.creativecommons.org/l/by-nc/3.0/cn/88x31.png)](http://creativecommons.org/licenses/by-nc/3.0/cn/)
-
-[dict]: https://github.com/mavaddat-javid-education/Computer-Science-Glossary/blob/master/dict.textile
-
-[issue]: https://github.com/mavaddat-javid-education/Computer-Science-Glossary/issues
+[![CC BY-NC 3.0 EN]([![CC BY-NC 3.0 EN](http://i.creativecommons.org/l/by-nc/3.0/cn/88x31.png)](http://creativecommons.org/licenses/by-nc/3.0/en/)
+)](http://creativecommons.org/licenses/by-nc/3.0/en/)
 
