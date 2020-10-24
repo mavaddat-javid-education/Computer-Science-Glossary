@@ -38,7 +38,7 @@ Rely on everyone's strength to grow this vocabulary together.
 
 Use Textile syntax, refer to [Textile Reference](http://redcloth.org/hobix.com/textile/) or [Try Textile](http://textile.thresholdstate.com/).
 
-## how to use
+## How to use
 
 The command line tool is written using [Node](http://nodejs.org/), please install [Node](http://nodejs.org/download/) before using, or use \[NVM\](https:/ /github.com/creationix/nvm) to install Node.
 
