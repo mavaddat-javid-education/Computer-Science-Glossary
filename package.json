@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JuanitoFatas/Computer-Science-Glossary.git"
+    "url": "https://github.com/mavaddat-javid-education/Computer-Science-Glossary.git"
   },
   "keywords": [
     "glossary",
     "dictionary",
     "catlog"
   ],
-  "author": "CatTail",
+  "author": "mavaddat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JuanitoFatas/Computer-Science-Glossary/issues"
+    "url": "https://github.com/mavaddat-javid-education/Computer-Science-Glossary/issues"
   },
   "dependencies": {
     "github": "~0.1.12",
