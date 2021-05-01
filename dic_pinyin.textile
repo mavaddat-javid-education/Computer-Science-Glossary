@@ -149,6 +149,7 @@ h2. C
 | code                                 | 代码 (dài-mǎ)               |                  |                  |
 | code bloat                           | 代码膨胀 (dài-mǎ-péng-zhàng)           |                  |                  |
 | collection                           | 收集器 (shōu-jí-qì)             | 复合类型 (fù-hé-lèi-xíng)         |                  |
+| colon                                | 冒号 (mào-hào)              |                  |                  |
 | column                               | 行 (xíng)                 | 栏 (lán)               |                  |
 | column-major order                   | 行主序 (xíng-zhǔ-xù)             |                  |                  |
 | comma                                | 逗号 (dòu-hào)               |                  |                  |
