@@ -186,6 +186,7 @@ h2. C
 | connection                           | 连接 (lián-jiē)               |                  |                  |
 | cons                                 | 构造 (gōu-zào)               |                  |                  |
 | cons cell                            | 构元 (gōu-yuán)               | cons 单元 (cons -dān-yuán)        |                  |
+| console                              | 控制台 (kòng-zhì tái)               |                  |                  |
 | consequent                           | 结果 (jié-guǒ)               | 推论 (tuī-lùn)             |                  |
 | consistent                           | 一致性 (yī-zhì-xìng)             |                  |                  |
 | constant                             | 常量 (cháng-liàng)               |                  |                  |
@@ -906,6 +907,7 @@ h2. T
 | taxonomy                             | 分类法 (fēn-lèi-fǎ)             |                  |                  |
 | template                             | 模版 (mó-bǎn)               |                  |                  |
 | temporary object                     | 临时对象 (lín-shí-duì-xiàng)           |                  |                  |
+| terminal                             | 终端 (zhōng-duān)           |                  |                  |
 | testing                              | 测试 (cè-shì)               |                  |                  |
 | text                                 | 文本 (wén-běn)               |                  |                  |
 | text file                            | 文本文件 (wén-běn-wén-jiàn)           |                  |                  |
