@@ -359,6 +359,7 @@ h2. F
 | framework                            | 框架 (kuàng-jià)               |                  |                  |
 | freeware                             | 自由软件 (zì-yóu-ruǎn-jiàn)           |                  |                  |
 | function                             | 函数 (hán-shù)               |                  |                  |
+| function call                        | 函数调用 (hán-shù diào-yòng)               |                  |                  |
 | function literal                     | 函数字面常量 (hán-shù-zì-miàn-cháng-liàng)       |                  |                  |
 | function object                      | 函数对象 (hán-shù-duì-xiàng)           |                  |                  |
 | functional arguments                 | 函数型参数 (hán-shù-xíng-cān-shù)         |                  |                  |
